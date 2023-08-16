@@ -1,1 +1,2 @@
 # odin-recipes
+This project is designed to use HTML to create a web of simple recipe pages. It is intended to increase my ability to use HTMl structures effectively. The skills I will be demonstrating include setting up HTML boilerplate, and from there, using tags, links, and references to create simple recipes with links to eachother.
